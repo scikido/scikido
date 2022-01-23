@@ -1,4 +1,5 @@
 ### Hi there 👋
+ ![Twitter Follow](https://img.shields.io/twitter/follow/KiddoSci?color=yellow&label=sciKido&logo=sarvadnya&logoColor=cyan&style=for-the-badge)
 
 <!--
 **scikido/scikido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -38,4 +38,4 @@ which are intended for entertaining audience. Looking forward to working with yo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scikido&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![scikido's GitHub stats](https://github-readme-stats.vercel.app/api?username=scikido&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Scikido's GitHub stats](https://github-readme-stats.vercel.app/api?username=scikido&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

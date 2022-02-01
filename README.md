@@ -32,3 +32,10 @@ which are intended for entertaining audience. Looking forward to working with yo
 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" alt="ec2Python logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="aws database logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="firebase logo" width="50" height="50"/>
 ---
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scikido&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![scikido's GitHub stats](https://github-readme-stats.vercel.app/api?username=scikido&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

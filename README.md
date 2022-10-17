@@ -23,7 +23,7 @@ I'm a Student studying in class 12th in [Modern College Of Arts, Commerce and Sc
 I work mostly in **backend and private** projects. I also do some frontend work in HTML,CSS and JS.
 
 
-I have mangaed to create my [Blog](https://scikido.github.io/) and my [Youtube Channel](https://www.youtube.com/channel/UCe4VyBip-MJCBquO8hQ3Tug), 
+I have managed to create my [Blog](https://scikido.github.io/) and my [Youtube Channel](https://www.youtube.com/channel/UCe4VyBip-MJCBquO8hQ3Tug), 
 which are intended for entertaining audience. Looking forward to working with you guys.
 
 ---

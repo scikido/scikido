@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Student currently pursuing B.Tech in [GH Raisoni College of Engineering & Management](https://ghrcem.raisoni.net/).
+I'm a student currently pursuing B.Tech in [GH Raisoni College of Engineering & Management](https://ghrcem.raisoni.net/).
 
 
 I work mostly in **backend and private** projects. I also do some frontend work in HTML,CSS and JS.

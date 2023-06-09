@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student currently pursuing B.Tech from Pune University. cse 26'
+I'm a student currently pursuing B.Tech from Pune University
 
 
 I work mostly in **backend and private** projects. I also do some frontend work in HTML,CSS and JS.
 
 
-I have managed to create my [Blog](https://scikido.github.io/) and my [Youtube Channel](https://www.youtube.com/channel/UCe4VyBip-MJCBquO8hQ3Tug), 
-which are intended for entertaining audience. Looking forward to working with you guys.
+I have managed to create my [Blog](https://soulkadhi.live/) and my [Youtube Channel](https://www.youtube.com/channel/UCe4VyBip-MJCBquO8hQ3Tug), 
+which are intended for educating audience. Looking forward to working with you guys.
 
 ---
 

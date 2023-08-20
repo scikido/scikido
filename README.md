@@ -1,16 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Sarvadnya Chavhan</h1>
 <h3 align="center">A curious and innovative developer. Always friendly and in your neighborhood.</h3>
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=scikido&label=Profile%20Views&color=1&icon=3&pretty=true" />
-</p>
+<!--<p align="left">
+ <img src="https://visitcount.itsvg.in/api?id=scikido&label=Profile%20Views&color=1&icon=3&pretty=true" />
+</p>-->
+![](https://komarev.com/ghpvc/?username=scikido&style=plastic)
 
 
 <p align="left"> <a href="https://twitter.com/soulkadhiii" target="blank"><img src="https://img.shields.io/twitter/follow/soulkadhiii?logo=twitter&style=for-the-badge" alt="soulkadhiii" /></a> </p>
 
 - 🔭 I’m currently working on [Chessinator](chessinator.us)
 
-- 👯 I’m looking to collaborate on **Open Source Projects(hit me up if you've got one)**
+- 👯 I’m looking to collaborate on **Open Source, FullStack and DevOps Projects (hit me up if you've got one)**
 
 - 👨‍💻 My social presence: [soulkadhi.live](soulkadhi.live)
 
